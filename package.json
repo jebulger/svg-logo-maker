@@ -1,0 +1,13 @@
+{
+    "name": "svg-generator",
+    "version": "1.0.0",
+    "description": "package for svg gen dependencies",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Jack Bulger",
+    "dependencies": {
+        "inquirer": "^8.2.4"
+    }
+}

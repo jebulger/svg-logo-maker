@@ -1,1 +1,7 @@
-# svg-logo-maker
+# SVG Logo Maker
+
+## Description
+
+## Installation
+
+## Usage
