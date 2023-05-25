@@ -32,7 +32,6 @@ function init() {
     .then((data) => {
         const shape = new Shape(data);
         const svgContent = shape.generateSVG();
-        console.log(svgContent);
 
         // To write the SVG itself that will be placed into the examples folder
         fs.writeFile('./examples/logo.svg', svgContent, (err) => 
